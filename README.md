@@ -2,7 +2,7 @@
 
 A minimal Docker container with vim for when you need to edit a file inside another container
 
-Based on debian:jessie-minimal
+Based on `debian:jessie-slim`
 
 ## Example
 ```
